@@ -3,7 +3,7 @@
 
 I build scalable data and business intelligence solutions — turning raw data into decisions that matter.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages & ML**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,7 +17,7 @@ I build scalable data and business intelligence solutions — turning raw data i
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [Project Name](https://github.com/yourusername/repo) | Short description of what it does and the impact |
+| 🔗 [Anomaly Detection - Deep Learning](https://github.com/Marilyn-cc/Anomaly-Detection-using-a-CNN---based-Autoencoder) |ML Model that detects unusual Air Quality values |
 | 🔗 [Project Name](https://github.com/yourusername/repo) | Short description of what it does and the impact |
 | 🔗 [Project Name](https://github.com/yourusername/repo) | Short description of what it does and the impact |
 
