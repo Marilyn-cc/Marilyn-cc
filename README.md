@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Marilyn-cc/Marilyn-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Maryline Chekwemoi 👋
 
-Here are some ideas to get you started:
+I build scalable data and business intelligence solutions — turning raw data into decisions that matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages & ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Visualization & BI**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+## 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔗 [Project Name](https://github.com/yourusername/repo) | Short description of what it does and the impact |
+| 🔗 [Project Name](https://github.com/yourusername/repo) | Short description of what it does and the impact |
+| 🔗 [Project Name](https://github.com/yourusername/repo) | Short description of what it does and the impact |
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
