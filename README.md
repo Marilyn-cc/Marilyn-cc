@@ -18,11 +18,9 @@ I build scalable data and business intelligence solutions — turning raw data i
 | Project | Description |
 |--------|-------------|
 | 🔗 [Anomaly Detection - Deep Learning](https://github.com/Marilyn-cc/Anomaly-Detection-using-a-CNN---based-Autoencoder) |ML Model that detects unusual Air Quality values |
-| 🔗 [Project Name](https://github.com/yourusername/repo) | Short description of what it does and the impact |
-| 🔗 [Project Name](https://github.com/yourusername/repo) | Short description of what it does and the impact |
+| 🔗 [Hydro-track](https://github.com/Marilyn-cc/Hydro-track) | Community water point status mapping |
+| 🔗 [Business Intelligence](https://github.com/Marilyn-cc/Maji-Ndogo-Water-Analysis) | Deep dive into the impact of Water shortage |
 
 ## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:merrylynchekwemoi@gmail.com)
 
