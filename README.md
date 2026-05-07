@@ -5,6 +5,7 @@ I build scalable data and business intelligence solutions — turning raw data i
 
 ---
 
+
 ##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,7 +22,7 @@ I build scalable data and business intelligence solutions — turning raw data i
 
 ## 💡 What I Do 
 
-| Tool | What I do & Why it matters |
+| Tool |  Why it matters |
 |------|---------------------------|
 | **Python · NumPy · Pandas · Matplotlib · Seaborn** | Statistical analysis of data to surface hidden patterns and trends — enabling evidence-based decisions rather than guesswork |
 | **scikit-learn** | Building, testing, and evaluating machine learning models for automation, predictive modelling, and smarter forecasting |
