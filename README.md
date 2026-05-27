@@ -1,7 +1,7 @@
 
 # Hi, I'm Maryline Chekwemoi 👋
 
-I build scalable data and business intelligence solutions — turning raw data into decisions that matter.
+I build scalable data and business intelligence solutions-turning raw data into decisions that matter.
 
 ---
 
@@ -26,9 +26,9 @@ I build scalable data and business intelligence solutions — turning raw data i
 |------|---------------------------|
 | **Python · NumPy · Pandas · Matplotlib · Seaborn** | Statistical analysis of data to surface hidden patterns and trends — enabling evidence-based decisions rather than guesswork |
 | **scikit-learn** | Building, testing, and evaluating machine learning models for automation, predictive modelling, and smarter forecasting |
-| **SQL** | Data retrieval and database management to improve storage architecture — making every downstream data operation faster and more reliable |
+| **SQL** | Data retrieval and database management to improve storage architecture-making every downstream data operation faster and more reliable |
 | **Power BI** | Designing interactive dashboards that translate complex data into clear business insights for non-technical stakeholders |
-| **AWS** | Deploying solutions in the cloud for reproducibility and scalability — so analyses and pipelines can grow with the data |
+| **AWS** | Deploying solutions in the cloud for reproducibility and scalability-so analysis and pipelines can grow with the data |
 
 ---
 
