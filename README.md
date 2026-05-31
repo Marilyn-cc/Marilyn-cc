@@ -2,6 +2,8 @@
 # Hi, I'm Maryline Chekwemoi 👋
 
 I build scalable data and business intelligence solutions-turning raw data into decisions that matter.
+🌐 [Check me out ](https://ds-portfolio-tan.vercel.app/)
+
 
 ---
 
