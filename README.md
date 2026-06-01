@@ -3,7 +3,7 @@
 
 I build scalable data and business intelligence solutions-turning raw data into decisions that matter.
 
-🌐 [Check me out ](https://ds-portfolio-tan.vercel.app/)
+🌐 [Check me out ](https://marylinedatadev.vercel.app/)
 
 
 ---
