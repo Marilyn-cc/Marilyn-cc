@@ -27,7 +27,7 @@ I build scalable data and business intelligence solutions-turning raw data into 
 
 | Tool |  Why it matters |
 |------|---------------------------|
-| **Python · NumPy · Pandas · Matplotlib · Seaborn** | Statistical analysis of data to surface hidden patterns and trends — enabling evidence-based decisions rather than guesswork |
+| **Python · NumPy · Pandas · Matplotlib · Seaborn** | Statistical analysis of data to surface hidden patterns and trends-enabling evidence-based decisions rather than guesswork |
 | **scikit-learn** | Building, testing, and evaluating machine learning models for automation, predictive modelling, and smarter forecasting |
 | **SQL** | Data retrieval and database management to improve storage architecture-making every downstream data operation faster and more reliable |
 | **Power BI** | Designing interactive dashboards that translate complex data into clear business insights for non-technical stakeholders |
