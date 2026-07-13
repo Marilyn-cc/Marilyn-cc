@@ -1,5 +1,5 @@
 
-# Hi, I'm Maryline Chekwemoi 👋
+# Ola!, I'm Maryline
 
 I build scalable data and business intelligence solutions-turning raw data into decisions that matter.
 
