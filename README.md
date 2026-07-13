@@ -1,9 +1,7 @@
 
-# Ola!, I'm Maryline
+# Ola !, I'm Maryline
 
 I build scalable data and business intelligence solutions-turning raw data into decisions that matter.
-
-🌐 [Check me out ](https://marylinedatadev.vercel.app/)
 
 
 ---
@@ -36,14 +34,4 @@ I build scalable data and business intelligence solutions-turning raw data into 
 ---
 
 
-## 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔗 [Anomaly Detection - Deep Learning](https://github.com/Marilyn-cc/Anomaly-Detection-using-a-CNN---based-Autoencoder) |ML Model that detects unusual Air Quality values |
-| 🔗 [Hydro-track](https://github.com/Marilyn-cc/Hydro-track) | Community water point status mapping |
-| 🔗 [Business Intelligence](https://github.com/Marilyn-cc/Maji-Ndogo-Water-Analysis) | Deep dive into the impact of Water shortage |
-
-## 📫 Connect
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:merrylynchekwemoi@gmail.com)
 
