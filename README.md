@@ -21,7 +21,7 @@ I build scalable data and business intelligence solutions-turning raw data into 
 
 ---
 
-## 💡 What I Do 
+## What I Do 
 
 | Tool |  Why it matters |
 |------|---------------------------|
